@@ -73,15 +73,15 @@ DC317/280-45 || 1881
 
 Code | Wood | SY
 --- | --- | ---
-PR541-15 | 1271 | 1281
+PR541-15 (electric) | 1271 | 1281
 PR541-15 (manual) | 1215 | 1225
-PL541-15 | 1272 | 1282
+PL541-15 (electric) | 1272 | 1282
 PL541-15 (manual) | 1216 | 1226
 PR280-30 | 1273
 PL280-30 | 1274
-PR140-30 | 1231
+PR140-30 (electric) | 1231
 PR140-30 (manual) | railset only
-PL140-30 | 1232
+PL140-30 (electric) | 1232
 PL140-30 (manual) | railset only
 PRL541/280-15 | 1261
 PLR541/280-15 | 1262
