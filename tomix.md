@@ -1,6 +1,6 @@
 # Common rails
-## Straight rails
 
+## Straight rails
 Code | Wood | PC | SL | WP | WP (one-sided) | WT | WT (stone) | WT (grass)
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 S280 | 1802<br>1092 | 1012<br>1093 | 1048 | 1730<br>1762 | 1767
@@ -16,7 +16,6 @@ S33 | part of 1099<br>part of 1324 ||| part of 1738
 S18.5 | part of 1099<br>part of 1324 ||| part of 1738 || part of 1798<br>part of 1799
 
 ## Curved rails
-
 Code | Wood | PC | SL | WP | WP (one-sided) | WT | WT (stone)
 --- | --- | --- | --- | --- | --- | --- | ---
 C605-10 | 1870 | 1190 | railset only || part of 1750
@@ -39,23 +38,42 @@ C177-60<br>C177-30 | 1113 ||||| 1797 | railset only
 C140-60<br>C140-30 | 1112 ||||| 1796 | railset only
 C103-60<br>C103-30 | 1111 ||||| 1795
 
-# Viaduct rails
-## Straight rails
+# Bridges and viaducts
 
+## Iron bridges
+Code | Type | Red | Green | Blue | Yellow | Dark brown
+--- | --- | --- | --- | --- | --- | ---
+S280 | Iron truss | 3031 | 3033 | 3030 | 3032
+S280 | Upper road iron truss | 3266 | 3267
+S140 | Iron pony truss | 3250 || 3249
+S140 | Deck girder | 3028 | 3241
+S140 | Girder with walls (PC track) ||| 3027
+S70 | Through girder | 3247 | 3248
+S35 | Through girder | 3264 | 3265
+DS560 | Iron truss | 3221 | 3222
+DS280 | Iron truss || 3052 | 3051 | 3053 | 3257
+DS140 | Girder with walls (without tracks) || 3068 | 3067
+
+## Concrete bridges
+Code | Type | Gray
+--- | --- | ---
+DS280 | Concrete (WP tracks) | 3226
+S140 | Concrete arch (wood track) | 3238 (optionally green or yellow rails)
+S70 | Concrete arch (wood track) | 3237 (optionally green or yellow rails)
+
+## Straight viaducts
 Code | Wood | PC | SL
 --- | --- | --- | ---
 HS280 | 1072 | 1822
 HS158.5 | 1076 | 1826
 HS140 | 1071 | 1821
 HS99 | 1075 | 1825
-S70-A | 3064 | 3064
 |||
 DS1120 || 1819 | 1070
 DS280 || 1812 | 1067
 DS140 || 1811 | 1066
 
-## Curved rails
-
+## Curved viaducts
 Code | Wood | PC | SL
 --- | --- | --- | ---
 HC541-15 || 1876
@@ -69,8 +87,16 @@ DC465/428-45 || 1883 | 1168
 DC391/354-45 || 1882
 DC317/280-45 || 1881
 
-# Turnouts
+## Viaducts without tracks
+Code | No track
+--- | ---
+S70-A | 3064
+DS140 | 3262
+DC317/280-15 | 3065
+PR541-15-55.5 | 3066
+PL541-15-55.5 | 3066
 
+# Turnouts
 Code | Wood | SY
 --- | --- | ---
 PR541-15 (electric) | 1271 | 1281
@@ -93,7 +119,6 @@ PXL140-15 | 1246
 PY280-15 | 1240
 
 # Special rails
-
 Code | Wood | PC | SL | WP | WT | SY | PT
 --- | --- | --- | --- | --- | --- | --- | ---
 S140-RE | 1523 | 1524
