@@ -1,12 +1,32 @@
 # Wood
 
-## 91092 Pattern B
+## 90947 Pattern A
+* 3× S280
+* 1× S140
+* 1× S140-RE
+* 8× C280-45
+
+## 91092 Pattern B (electric)
 * 4× S280
 * 1× S140
 * 2× S72.5
 * 2× C541-15
 * 1× PR541-15 (electric)
 * 1× PL541-15 (electric)
+
+## 91091 Pattern B (manual)
+* 4× S280
+* 1× S140
+* 2× S72.5
+* 2× C541-15
+* 1× PR541-15 (manual)
+* 1× PL541-15 (manual)
+
+## 91063 Pattern C
+* 2× S280
+* 6× HS140
+* 4× HC317-45
+* 4× HC280-45
 
 ## 91064 Pattern D
 * 3× S280
@@ -31,6 +51,25 @@
 * 4× C541-15
 * 2× PY280-15
 
+## 91071 Pattern HA
+* 2× DS280-PC
+* 2× DS140-PC
+* 4× S140
+* 4× DC391/354-45-PC
+* 4× DC317/280-45-PC
+
+## 91070 Pattern HB
+* 4× S280
+* 5× S140
+* 4× C605-10
+
+## 91073 Pattern HC
+* 2× DS280-PC
+* 2× S280
+* 4× DS140-PC
+* 4× DC391/354-45-PC
+* 4× DC317/280-45-PC
+
 ## 91081 Pattern MA
 * 2× S140
 * 2× C177-60
@@ -38,7 +77,7 @@
 * 2× C140-60
 * 2× C140-30
 
-## 91081 Pattern MB
+## 91082 Pattern MB
 * 1× S280
 * 1× S140
 * 2× S70
@@ -46,7 +85,12 @@
 * 1× PR140-30 (manual)
 * 1× PL140-30 (manual)
 
-## 91081 Pattern MX
+## 90098 Pattern MS
+* 1× S140
+* 1× S140-RE
+* 6× C140-60
+
+## 91083 Pattern MX
 * 2× S70
 * 4× S33
 * 4× S18.5
@@ -62,13 +106,11 @@
 
 # PC and SL
 
-## 91025 Pattern B (manual)
-* 4× S280-PC
+## 90949 Pattern A
+* 3× S280-PC
 * 1× S140-PC
-* 2× S72.5-PC
-* 2× C541-15-PC
-* 1× PR541-15-SY (manual)
-* 1× PL541-15-SY (manual)
+* 1× S140-RE-PC
+* 8× C280-45-PC
 
 ## 91026 Pattern B (electric)
 * 4× S280-PC
@@ -77,6 +119,14 @@
 * 2× C541-15-PC
 * 1× PR541-15-SY (electric)
 * 1× PL541-15-SY (electric)
+
+## 91025 Pattern B (manual)
+* 4× S280-PC
+* 1× S140-PC
+* 2× S72.5-PC
+* 2× C541-15-PC
+* 1× PR541-15-SY (manual)
+* 1× PL541-15-SY (manual)
 
 ## 91027 Pattern C
 * 2× S280-PC
@@ -110,7 +160,7 @@
 * 2× S280-PC
 * 2× S280-SL
 
-## 91043 Pattern HB-SL
+## 91075 Pattern HB-SL
 * 4× S280-SL
 * 5× S140-SL
 * 4× C605-10-SL
@@ -122,7 +172,7 @@
 * 4× DC391/354-45-PC
 * 4× DC317/280-45-PC
 
-## 91043 Pattern HD-SL
+## 91079 Pattern HD-SL
 * 2× DS280-SL
 * 4× DS140-SL
 * 8× DC539/205-22.5-SL
@@ -189,7 +239,15 @@
 * 2× CR280-22.5-WP
 * 2× CL280-22.5-WP
 
-## 91015 Pattern CB
+## 91012 Pattern CB (wood turnouts)
+* 4× S280-WP (one-sided)
+* 2× S72.5-WP (one-sided)
+* 2× S70-WP (one-sided)
+* 2× C541-15-WP (one-sided)
+* 1× PR541-15 (electric)
+* 1× PL541-15 (electric)
+
+## 91015 Pattern CB (SY turnouts)
 * 4× S280-WP (one-sided)
 * 2× S72.5-WP (one-sided)
 * 2× S70-WP (one-sided)
@@ -230,7 +288,11 @@
 * 2× C140-60-WT (stone)
 * 2× C140-30-WT (stone)
 
-## 91086 Pattern MX-WT
+## 90099 Pattern MS-WT
+* 2× S140-WT
+* 6× C140-60-WT
+
+## 91088 Pattern MX-WT
 * 2× S70-WT
 * 2× S47.5-WT
 * 4× S37-WT
@@ -241,6 +303,6 @@
 * 1× C140-30-WT
 * 1× X37-90-WT
 
-## 91086 Pattern SA-WT
+## 91085 Pattern SA-WT
 * 2× S140-WT
 * 6× C103-60-WT
