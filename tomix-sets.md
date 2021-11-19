@@ -1,4 +1,4 @@
-# Wooden
+# Wood
 
 ## 91092 Pattern B
 * 4× S280
