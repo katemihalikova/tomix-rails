@@ -120,16 +120,17 @@ PXL140-15 | 1246
 PY280-15 | 1240
 
 # Special rails
-Code | Wood | PC | SL | WP | WI | WT | SY | PT
+Code | Wood | PC | SL | WI | WP | WT | SY | PT
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 S140-RE | 1523 | 1524
-V70 | 1525 | 1526 || 1528
+V70 | 1525 | 1526 ||| 1528
 M70 | 1521
 G70-W | 1671
 S35 (crossing) || railset only
 S175 (pit) |||||||| railset only
 |||
-E | part of 1421 | 1427<br>1428 | 1423 || 1425
+E | part of 1421 ||| 1425
+E-LED | 1422 | 1427<br>1428 | 1423
 |||
 XR140-15 | 1322
 XL140-15 | 1323
