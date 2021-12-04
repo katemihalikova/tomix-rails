@@ -201,9 +201,9 @@
 * 2× S280-PC
 * 2× S175-PT
 * 5× S140-PC
+* 2× S140-WT (with yellow lines)
 * 3× S72.5-PC
 * 2× S70-PC
-* 4× S70-WT (with yellow lines)
 * 2× S35-PC (crossing)
 * 1× C541-15-PC
 * 1× C280-15-PC
