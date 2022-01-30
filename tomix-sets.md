@@ -14,7 +14,7 @@
 * 1× PR541-15 (electric)
 * 1× PL541-15 (electric)
 
-## 91091 Pattern B (manual)
+## ~~91091 Pattern B (manual)~~
 * 4× S280
 * 1× S140
 * 2× S72.5
@@ -22,7 +22,7 @@
 * 1× PR541-15 (manual)
 * 1× PL541-15 (manual)
 
-## 91063 Pattern C
+## ~~91063 Pattern C~~
 * 2× S280
 * 6× HS140
 * 4× HC317-45
@@ -51,19 +51,27 @@
 * 4× C541-15
 * 2× PY280-15
 
-## 91071 Pattern HA
+## 90096 Pattern "Switching"
+* 3× S280
+* 1× S140
+* 3× S72.5
+* 1× C541-15
+* 1× PR541-15
+* 3× E
+
+## ~~91071 Pattern HA~~
 * 2× DS280-PC
 * 2× DS140-PC
 * 4× S140
 * 4× DC391/354-45-PC
 * 4× DC317/280-45-PC
 
-## 91070 Pattern HB
+## ~~91070 Pattern HB~~
 * 4× S280
 * 5× S140
 * 4× C605-10
 
-## 91073 Pattern HC
+## ~~91073 Pattern HC~~
 * 2× DS280-PC
 * 2× S280
 * 4× DS140-PC
@@ -85,7 +93,7 @@
 * 1× PR140-30 (manual)
 * 1× PL140-30 (manual)
 
-## 90098 Pattern MS
+## 90098 Pattern "Symmetrical MA"
 * 1× S140
 * 1× S140-RE
 * 6× C140-60
@@ -239,7 +247,7 @@
 * 2× CR280-22.5-WP
 * 2× CL280-22.5-WP
 
-## 91012 Pattern CB (wood turnouts)
+## ~~91012 Pattern CB (wood turnouts)~~
 * 4× S280-WP (one-sided)
 * 2× S72.5-WP (one-sided)
 * 2× S70-WP (one-sided)
@@ -282,13 +290,13 @@
 * 2× C140-30-WT
 
 ## 91084 Pattern MA-WT (stone)
-* 2× S140-WT (stone)
-* 2× C177-60-WT (stone)
-* 2× C177-30-WT (stone)
-* 2× C140-60-WT (stone)
-* 2× C140-30-WT (stone)
+* 2× S140-WT-S
+* 2× C177-60-WT-S
+* 2× C177-30-WT-S
+* 2× C140-60-WT-S
+* 2× C140-30-WT-S
 
-## 90099 Pattern MS-WT
+## 90099 Pattern "Symmetrical MA-WT"
 * 2× S140-WT
 * 6× C140-60-WT
 
