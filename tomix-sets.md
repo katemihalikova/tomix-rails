@@ -85,6 +85,11 @@
 * 2× C140-60
 * 2× C140-30
 
+## 90098 Pattern "Symmetrical MA"
+* 1× S140
+* 1× S140-RE
+* 6× C140-60
+
 ## 91082 Pattern MB
 * 1× S280
 * 1× S140
@@ -92,11 +97,6 @@
 * 2× C140-30
 * 1× PR140-30 (manual)
 * 1× PL140-30 (manual)
-
-## 90098 Pattern "Symmetrical MA"
-* 1× S140
-* 1× S140-RE
-* 6× C140-60
 
 ## 91083 Pattern MX
 * 2× S70
