@@ -61,8 +61,8 @@ DS140 | Girder with walls _‹without tracks›_ || 3068 (1×) | 3067 (1×)
 Code | Type | Gray
 --- | --- | ---
 DS280 | Concrete (WP tracks) | 3226 (1×)
-S140 | Concrete arch (wood track) | 3238 (1×) _‹optionally green or yellow rails›_
-S70 | Concrete arch (wood track) | 3237 (2×) _‹optionally green or yellow rails›_
+S140 | Concrete arch (wood track) | 3238 (1×) _‹optionally green or yellow railings›_
+S70 | Concrete arch (wood track) | 3237 (2×) _‹optionally green or yellow railings›_
 
 ## Straight viaducts
 Code | Wood | PC | SL
