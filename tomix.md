@@ -165,7 +165,7 @@ PR541-15-C541 ||||||| 1298◩ (2×)
 S140 cleaning | ~~6414 (1×)~~ | 6415 (1×)
 
 # Turntables
-Code | Turntable | Selector | Rail block
---- | --- | --- | ---
-AT212-15 | 1633◩<br>93552◩ | 1633◩<br>93552◩ | 1632 (2×)<br>1633◩ (4×)<br>93552◩ (4×)
-T140-15 | 93543◩ || 93543◩ (10×)
+Code | Gray | Red || Rail block
+--- | --- | --- | --- | ---
+AT212-15 (electric) | 1633 | 93552 || included in set (4×)<br>1632 (2×)<br>_‹1 block = 3 tracks›_
+T140-15 (manual) || 93543 || included in set (10×)<br>_‹1 block = 1 track›_
