@@ -246,6 +246,7 @@ graph LR
     Si(Straight track) --> S{Length}
     S --->|S140| S140{Base}
     S140 --->|Concrete| S140C["1793 (4×)"]
+    S140 --->|Cobblestone| S140S["railset only"]:::railsetonly
     S --->|S70| S70{Base}
     S70 --->|Concrete| S70C["1792 (4×)"]
     S70 --->|Cobblestone| S70S["1794 (4×)"]
