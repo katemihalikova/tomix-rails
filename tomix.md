@@ -170,3 +170,39 @@ Code | Gray | Red || Rail block
 --- | --- | --- | --- | ---
 AT212-15 (electric) | 1633 | 93552 || included in set (4×)<br>1632 (2×)<br>_‹1 block = 3 tracks›_
 T140-15 (manual) || 93543 || included in set (10×)<br>_‹1 block = 1 track›_
+
+# Road pieces
+## Straight roads
+Code | RO
+--- | ---
+S74 | S-002 (6×)<br>X-002◩ (4×)<br>X-003◩ (6×)
+S70 | S-001 (6×)<br>BS-001◩ (1×)<br>BRT◩ (6×)
+S37 | S-004 (4×)
+
+## Curved roads
+Code | RO
+--- | ---
+C214-30 | C-005 (6×)<br>X-002◩ (6×)
+C177-30 | C-004 (6×)<br>X-002◩ (6×)
+C140-30 | C-003 (6×)
+C103-30 | C-002 (6×)
+C66-30 | C-001 (6×)<br>BRT◩ (20×)
+
+## Intersection roads
+Code | RO
+--- | ---
+X121.5-A | X-001◩ (4×)<br>X-002◩ (4×)
+X121.5-C | X-003◩ (2×)
+X121.5-D | X-003◩ (2×)
+X37 | _use S37_
+BR148-37 | BRT◩ (1×)
+BL148-37 | BRT◩ (1×)
+BY66-60 | BRT◩ (2×)
+S74-ST<br>_stop road_ | S-003 (4×)<br>X-002◩ (4×)<br>X-003◩ (2×)
+
+## Special roads
+Description | RO
+--- | ---
+Bus stop<br>_(3× S70 with printed lines)_ | BS-001◩ (1 set)
+BRT bus stop<br>_(2× S70 with printed line + 1× S70 with green crosswalk)_ | BRT◩ (2 sets)
+BRT entry road<br>_(half orange S70)_ | BRT◩ (2×)
