@@ -174,7 +174,7 @@ S140 cleaning | ~~6414 (1×)~~ | 6415 (1×)
 Code | Gray | Red || Rail block
 --- | --- | --- | --- | ---
 AT212-15 (electric) | 1633 | 93552 || included in set (4×)<br>1632 (2×)<br>_‹1 block = 3 tracks›_
-T140-15 (manual) || 93543 || included in set<br>(5× rail, 5× buffer)<br>_‹1 block = 1 track›_
+T140-15 (manual) || 93543 || included in set<br>(5× rail, 10× buffer)<br>_‹1 block = 1 track›_
 
 # Road pieces
 ## Straight roads
