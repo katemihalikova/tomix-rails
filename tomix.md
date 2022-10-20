@@ -49,18 +49,18 @@ C103-30 | 1111◩ (2×) | 1795◩ (2×)
 # Bridges and viaducts
 
 ## Iron bridges
-Code | Type | Red | Green | Blue | Yellow | Dark brown
---- | --- | --- | --- | --- | --- | ---
-S280 | Iron truss | 3031 (1×) | 3033 (1×) | 3030 (1×) | ~~3032 (1×)~~
-S280 | Upper road iron truss | 3266 (1×) | 3267 (1×)
-S140 | Iron pony truss | 3250 (1×) || 3249 (1×)
-S140 | Deck girder | 3028 (1×) | 3241 (1×)
-S140 | Girder with walls (PC track) ||| 3027 (1×)
+Code | Type | Red | Dark green | Light green | Blue | Cream | Dark brown
+--- | --- | --- | --- | --- | --- | --- | ---
+S280 | Iron truss | 3031 (1×) | 3033 (1×) || 3030 (1×) | ~~3032 (1×)~~
+S280 | Upper road iron truss | 3266 (1×) | 3267 (1×) | 3270◩ (2×) 🆕
+S140 | Iron pony truss | 3250 (1×) ||| 3249 (1×)
+S140 | Deck girder | 3028 (1×) | 3241 (1×) | 3270◩ (4×) 🆕
+S140 | Girder with walls (PC track) |||| 3027 (1×)
 S70 | Through girder | 3247 (2×) | 3248 (2×)
 S35 | Through girder | 3264 (2×) | 3265 (2×)
-DS560 | Iron truss | 3221 (1×) | 3222 (1×)
-DS280 | Iron truss || 3052 (1×) | 3051 (1×) | ~~3053 (1×)~~ | 3257 (1×)
-DS140 | Girder with walls _‹without tracks›_ || 3068 (1×) | 3067 (1×)
+DS560 | Iron truss | 3221 (1×) || 3222 (1×)
+DS280 | Iron truss ||| 3052 (1×) | 3051 (1×) | ~~3053 (1×)~~ | 3257 (1×)
+DS140 | Girder with walls _‹without tracks›_ ||| 3068 (1×) | 3067 (1×)
 
 ## Concrete bridges
 Code | Type | Gray
@@ -85,7 +85,7 @@ DS140 || 1811 (2×) | 1066 (2×)
 Code | Wood | PC | SL
 --- | --- | --- | ---
 HC541-15 || 1876 (4×)
-HC391-45 || 1875 (4×) 🆕
+HC391-45 || 1875 (4×)
 HC354-45 | ~~1174 (2×)~~ | 1874 (4×)
 HC317-45 | ~~1172 (2×)~~ | 1872 (4×)
 HC280-45 | ~~1171 (2×)~~ | 1871 (4×)
