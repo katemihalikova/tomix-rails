@@ -293,3 +293,23 @@ graph LR
     Si(Straight track) --> S{Length}
     S --->|S175| S175["railset only"]:::railsetonly
 ```
+
+# EM
+
+```mermaid
+graph LR
+    classDef cancelled fill:#fbb,stroke:#f22;
+    classDef railsetonly fill:#ff7,stroke:#aa0;
+
+    Si(Straight embankment) --> S{Length}
+    S --->|S140| S140{Rail type}
+    S140 --->|Wood| S140W["91045◩ (1×)"]
+    S140 --->|PC| S140PC["combine 1011 (4×) + 91045◩ (1×)<br>combine 1524◩ (1×) + 91045◩ (1×)"]
+    S140 --->|SL| S140SL["combine 1047 (4×) + 91045◩ (1×)"]
+    S140 --->|WP| S140WP["combine 1761 (4×) + 3228 (4×)<br>combine 1761 (4×) + 3229 (2×)"]
+
+    Ci(Curved embankment) --> C{Radius<br>Rail type}
+    C --->|C1641 Wood| C1641{Cant type<br>Angle}
+    C1641 --->|"Cant 5°"| C1641C["91045◩ (2×)<br>91046 (6×)"]
+    C1641 --->|"Approach 2× 5°"| C1641A["91045◩ (2×)"]
+```
