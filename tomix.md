@@ -54,7 +54,8 @@ Code | Type | Red | Dark green | Light green | Blue | Cream | Dark brown
 S280 | Iron truss | 3031 (1×) | 3033 (1×) || 3030 (1×) | ~~3032 (1×)~~
 S280 | Upper road iron truss | 3266 (1×) | 3267 (1×) | 3270◩ (2×) 🆕
 S140 | Iron pony truss | 3250 (1×) ||| 3249 (1×)
-S140 | Deck girder | 3028 (1×) | 3241 (1×) | 3270◩ (4×) 🆕
+S140 | Deck girder (old) | 3028 (1×) | 3241 (1×)
+S140 | Deck girder (new) | 3255 (1×) 🆕 | 3256 (1×) 🆕 | 3270◩ (4×) 🆕
 S140 | Girder with walls (PC track) |||| 3027 (1×)
 S70 | Through girder | 3247 (2×) | 3248 (2×)
 S35 | Through girder | 3264 (2×) | 3265 (2×)
@@ -178,36 +179,37 @@ T140-15 (manual) || 93543 || included in set<br>(10× rail, 10× buffer)<br>_‹
 
 # Road pieces
 ## Straight roads
-Code | RO
---- | ---
-S74 | S-002 (6×)<br>X-002◩ (4×)<br>X-003◩ (6×)
-S70 | S-001 (6×)<br>BS-001◩ (1×)<br>BRT◩ (6×)
-S37 | S-004 (4×)
+Code | RO (new) | RO (old)
+--- | --- | ---
+S74 || S-002 (6×)<br>X-002◩ (4×)<br>X-003◩ (6×)
+S70 | S-001-2◩ (7×) 🆕<br>BS-002◩ (1×) 🆕 | S-001 (6×)<br>BS-001◩ (1×)<br>BRT◩ (6×)
+S70 with crosswalk | S-001-2◩ (1×) 🆕
+S37 || S-004 (4×)
 
 ## Curved roads
-Code | RO
---- | ---
-C214-30 | C-005 (6×)<br>X-002◩ (6×)
-C177-30 | C-004 (6×)<br>X-002◩ (6×)
-C140-30 | C-003 (6×)
-C103-30 | C-002 (6×)
-C66-30 | C-001 (6×)<br>BRT◩ (20×)
+Code | RO (new) | RO (old)
+--- | --- | ---
+C214-30 || C-005 (6×)<br>X-002◩ (6×)
+C177-30 || C-004 (6×)<br>X-002◩ (6×)
+C140-30 | C-003-2 (6×) 🆕 | C-003 (6×)
+C103-30 | C-002-2 (6×) 🆕 | C-002 (6×)
+C66-30 | C-001-2 (6×) 🆕 | C-001 (6×)<br>BRT◩ (20×)
 
 ## Intersection roads
-Code | RO
---- | ---
-X121.5-A _(curved)_ | X-001◩ (4×)<br>X-002◩ (4×)
-X121.5-C _(entry)_ | X-003◩ (2×)
-X121.5-D _(exit)_ | X-003◩ (2×)
-X37 | _use S37_
-BR148-37 | BRT◩ (1×)
-BL148-37 | BRT◩ (1×)
-BY66-60 | BRT◩ (2×)
-S74-ST<br>_stop road_ | S-003 (4×)<br>X-002◩ (4×)<br>X-003◩ (2×)
+Code | RO (new) | RO (old)
+--- | --- | ---
+X121.5-A _(curved)_ || X-001◩ (4×)<br>X-002◩ (4×)
+X121.5-C _(entry)_ || X-003◩ (2×)
+X121.5-D _(exit)_ || X-003◩ (2×)
+X37 || _use S37_
+BR148-37 || BRT◩ (1×)
+BL148-37 || BRT◩ (1×)
+BY66-60 || BRT◩ (2×)
+S74-ST<br>_stop road_ || S-003 (4×)<br>X-002◩ (4×)<br>X-003◩ (2×)
 
 ## Special roads
-Description | RO
---- | ---
-Bus stop<br>_(3× S70 with printed lines)_ | BS-001◩ (1 set)
-BRT bus stop<br>_(2× S70 with printed line + 1× S70 with green crosswalk)_ | BRT◩ (2 sets)
-BRT entry road<br>_(half orange S70)_ | BRT◩ (2×)
+Description | RO (new) | RO (old)
+--- | --- | ---
+Bus stop<br>_(3× S70 with printed markings)_ | BS-002◩ (1 set) 🆕 | BS-001◩ (1 set)
+BRT bus stop<br>_(2× S70 with printed line + 1× S70 with green crosswalk)_ || BRT◩ (2 sets)
+BRT entry road<br>_(half orange S70)_ || BRT◩ (2×)
