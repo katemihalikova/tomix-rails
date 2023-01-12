@@ -214,4 +214,4 @@ Description | RO (new) | RO (old)
 Bus stop<br>_(3× S70 with printed markings)_ | BS-002◩ (1 set) 🆕 | BS-001◩ (1 set)
 BRT bus stop<br>_(2× S70 with printed line + 1× S70 with green crosswalk)_ || BRT◩ (2 sets)
 BRT entry road<br>_(half orange S70)_ || BRT◩ (2×)
-Mode interchange<br>_(1× S70 with printed lines + rail pieces: 1× S70-WT with concrete & ballast print + 1× S70-PC)_ | DMV-931 (1 set) 🆕
+Mode interchange<br>_(1× S70 with printed lines + rail pieces: 1× S70-WT with concrete & ballast print + 1× S70-PC)_ | DMV-931◩ (1 set) 🆕
