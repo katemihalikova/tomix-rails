@@ -1,4 +1,8 @@
-# Common rails
+<sub>◩ This piece is part of a set that contains multiple different pieces.</sub>  
+<sup>⬙ This piece can also be used as a ground double-track piece with integrated walls.</sup>
+
+
+# Common single-track rails
 
 ## Straight rails
 Code | Wood | PC | SL | WP | WP (one-sided) | WT | WT-S | WT-G
@@ -46,6 +50,10 @@ C140-30 | 1112◩ (2×)<br>1231◩ (1×)<br>1232◩ (1×) | 1796◩ (2×) | rail
 C103-60 | 1111◩ (2×) | 1795◩ (2×)
 C103-30 | 1111◩ (2×) | 1795◩ (2×)
 
+# Common double-track rails
+
+None. WP tracks can be connected together to form double-track (or even more-track) pieces. See ⬙ for viaduct rails that can also be used as ground double-track pieces with integrated walls.
+
 # Bridges and viaducts
 
 ## Iron bridges
@@ -79,9 +87,9 @@ HS158.5 | ~~1076 (2×)~~ | 1826 (4×)
 HS140 | ~~1071 (2×)~~ | 1821 (4×)
 HS99 | ~~1075 (2×)~~ | 1825 (4×)
 |||
-DS1120 || 1819 (2×) | 1070 (2×)
-DS280 || 1812 (2×) | 1067 (2×)
-DS140 || 1811 (2×) | 1066 (2×)
+DS1120⬙ || 1819 (2×) | 1070 (2×)
+DS280⬙ || 1812 (2×) | 1067 (2×)
+DS140⬙ || 1811 (2×) | 1066 (2×)
 
 ## Curved viaducts
 Code | Wood | PC | SL
@@ -93,21 +101,21 @@ HC317-45 | ~~1172 (2×)~~ | 1872 (4×)
 HC280-45 | ~~1171 (2×)~~ | 1871 (4×)
 HC243-45 | ~~1173 (2×)~~ | 1873 (4×)
 |||
-DC539/502-22.5 ||| 1169 (2×)
-DC465/428-45 || 1883 (2×) | 1168 (2×)
-DC391/354-45 || 1882 (2×)
-DC317/280-45 || 1881 (2×)
+DC539/502-22.5⬙ ||| 1169 (2×)
+DC465/428-45⬙ || 1883 (2×) | 1168 (2×)
+DC391/354-45⬙ || 1882 (2×)
+DC317/280-45⬙ || 1881 (2×)
 
 ## Viaducts without tracks
-Code | With walls | With platform space
+Code | With walls | With outer platform space
 --- | --- | ---
-S70-A | 3064 (1×)
-DS140 | 3262 (2×) | 3261 (2×)
-DS140-55.5 | 3262 (2×) | 3261 (2×)
-DS140-74 | 3262+3263 (2×) | 3261+3263 (2×)
-DC317/280-15 | 3065 (3×)
-PR541-15-55.5 | 3066◩ (1×)
-PL541-15-55.5 | 3066◩ (1×)
+HS70 | 3064 (1×)
+HDS140 | 3262 (2×) | 3261 (2×)
+HDS140-55.5 | 3262 (2×) | 3261 (2×)
+HDS140-74 | 3262+3263 (2×) | 3261+3263 (2×)
+HDC317/280-15 | 3065 (3×)
+HPR541-15-55.5 | 3066◩ (1×)
+HPL541-15-55.5 | 3066◩ (1×)
 
 ## WP track pier bases
 Code | Pier base
@@ -128,18 +136,14 @@ C280-22.5 | 3091 (8×)
 E | 3099◩ (2×)
 
 # Turnouts
-Code | Wood | SY
---- | --- | ---
-PR541-15 (electric) | 1271 (1×) | 1281 (1×)
-PR541-15 (manual) | ~~1215 (1×)~~ | 1225 (1×) 
-PL541-15 (electric) | 1272 (1×) | 1282 (1×)
-PL541-15 (manual) | ~~1216 (1×)~~ | 1226 (1×)
+Code | Wood/electric | Wood/manual | SY/electric | SY/manual
+--- | --- | --- | --- | ---
+PR541-15 | 1271 (1×) | ~~1215 (1×)~~ | 1281 (1×) | 1225 (1×)
+PL541-15 | 1272 (1×) | ~~1216 (1×)~~ | 1282 (1×) | 1226 (1×)
 PR280-30 | 1273 (1×)
 PL280-30 | 1274 (1×)
-PR140-30 (electric) | 1231◩ (1×)
-PR140-30 (manual) | railset only
-PL140-30 (electric) | 1232◩ (1×)
-PL140-30 (manual) | railset only
+PR140-30 | 1231◩ (1×) | railset only
+PL140-30 | 1232◩ (1×) | railset only
 PRL541/280-15 | 1261 (1×)
 PLR541/280-15 | 1262 (1×)
 CPR317/280-45 | 1278 (1×)
@@ -232,3 +236,7 @@ Bus stop<br>_(3× S70 with printed markings)_ | BS-002◩ (1 set) 🆕 | BS-001�
 BRT bus stop<br>_(2× S70 with printed line + 1× S70 with green crosswalk)_ || BRT◩ (2 sets)
 BRT entry road<br>_(half orange S70)_ || BRT◩ (2×)
 Mode interchange<br>_(1× S70 with printed lines + rail pieces: 1× S70-WT with concrete & ballast print + 1× S70-PC)_ | DMV-931◩ (1 set) 🆕
+
+---
+
+Some official codes has been changed to fit into my personal classification.
