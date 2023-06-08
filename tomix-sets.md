@@ -149,6 +149,15 @@
 * 4× C541-15-PC
 * 8× C317-45-PC
 
+## [91030](https://www.tomytec.co.jp/tomix/products/n/91030.html) Pattern E
+* 2× S280-PC
+* 2× S140-PC
+* 2× S72.5-PC
+* 2× C280-45-PC
+* 6× C280-15-PC
+* 1× CPR317/280-45-SY
+* 1× CPL317/280-45-SY
+
 ## [91042](https://www.tomytec.co.jp/tomix/products/n/91042.html) Pattern HA
 * 2× DS280-PC
 * 2× DS140-PC
