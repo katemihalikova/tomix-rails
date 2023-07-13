@@ -142,12 +142,20 @@
 * 4× HC317-45-PC
 * 4× HC280-45-PC
 
-## [91028](https://www.tomytec.co.jp/tomix/products/n/91028.html) Pattern D
+## [91028](https://www.tomytec.co.jp/tomix/products/n/91028.html) Pattern D (without turnout)
 * 5× S280-PC
 * 1× S140-PC
 * 1× S140-RE-PC
 * 4× C541-15-PC
 * 8× C317-45-PC
+
+## [91029](https://www.tomytec.co.jp/tomix/products/n/91028.html) Pattern D (with turnout)
+* 3× S280-PC
+* 1× S140-PC
+* 1× S140-RE-PC
+* 4× C541-15-PC
+* 8× C317-45-PC
+* 1× PX280-SY (electric)
 
 ## [91030](https://www.tomytec.co.jp/tomix/products/n/91030.html) Pattern E
 * 2× S280-PC
