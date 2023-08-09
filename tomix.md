@@ -149,9 +149,9 @@ PR140-30 | [1231](https://www.tomytec.co.jp/tomix/products/n/1231.html)◩ (1×)
 PL140-30 | [1232](https://www.tomytec.co.jp/tomix/products/n/1232.html)◩ (1×) | railset only
 PRL541/280-15 | [1261](https://www.tomytec.co.jp/tomix/products/n/1261.html) (1×)
 PLR541/280-15 | [1262](https://www.tomytec.co.jp/tomix/products/n/1262.html) (1×)
-CPR317/280-45 | [1278](https://www.tomytec.co.jp/tomix/products/n/1278.html) (1×) || railset only
-CPL317/280-45 | [1279](https://www.tomytec.co.jp/tomix/products/n/1279.html) (1×) || railset only
-PX280 | [1247](https://www.tomytec.co.jp/tomix/products/n/1247.html) (1×) || railset only
+CPR317/280-45 | [1278](https://www.tomytec.co.jp/tomix/products/n/1278.html) (1×) || railset only 🆕
+CPL317/280-45 | [1279](https://www.tomytec.co.jp/tomix/products/n/1279.html) (1×) || railset only 🆕
+PX280 | [1247](https://www.tomytec.co.jp/tomix/products/n/1247.html) (1×) || railset only 🆕
 PXR140-15 | [1245](https://www.tomytec.co.jp/tomix/products/n/1245.html) (1×)
 PXL140-15 | [1246](https://www.tomytec.co.jp/tomix/products/n/1246.html) (1×)
 PY280-15 | [1240](https://www.tomytec.co.jp/tomix/products/n/1240.html) (1×)
