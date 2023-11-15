@@ -1,6 +1,7 @@
-* ☑️ 2-hole slide-in feeder slot(s)
-* ✅ 3-hole slide-in feeder slot(s)
-* ⏫ bottom feeder slot(s)
+# Legend
+* ☑️ 2-hole slide-in feeder slot(s) for feeder [5534](https://www.tomytec.co.jp/tomix/products/n/5534.html)
+* ✅ 3-hole slide-in feeder slot(s) for feeder [5534](https://www.tomytec.co.jp/tomix/products/n/5534.html)
+* ⏫ bottom feeder slot(s) for feeder [5538](https://www.tomytec.co.jp/tomix/products/n/5538.html)
 * ❌ no feeder slot
 
 # Straight rails
