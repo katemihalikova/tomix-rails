@@ -309,7 +309,9 @@ graph LR
     S140 --->|WP| S140WP["combine 1761 (4×) + 3228 (4×)<br>combine 1761 (4×) + 3229 (2×)"]
 
     Ci(Curved embankment) --> C{Radius<br>Rail type}
+    C --->|C1604 Wood| C1604{Cant type<br>Angle}
     C --->|C1641 Wood| C1641{Cant type<br>Angle}
-    C1641 --->|"Cant 5°"| C1641C["91045◩ (2×)<br>91046 (6×)"]
+    C1604 --->|"Cant convertible to approach, 5°"| C1604CA["91047 (6×)"]
+    C1641 --->|"Cant, 5°"| C1641C["91045◩ (2×)<br>91046 (6×)"]
     C1641 --->|"Approach 2× 5°"| C1641A["91045◩ (2×)"]
 ```

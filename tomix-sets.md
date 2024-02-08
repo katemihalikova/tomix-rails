@@ -149,7 +149,7 @@
 * 4× C541-15-PC
 * 8× C317-45-PC
 
-## [91029](https://www.tomytec.co.jp/tomix/products/n/91028.html) Pattern D (with turnout)
+## [91029](https://www.tomytec.co.jp/tomix/products/n/91029.html) Pattern D (with turnout)
 * 3× S280-PC
 * 1× S140-PC
 * 1× S140-RE-PC
