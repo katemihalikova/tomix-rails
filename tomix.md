@@ -24,6 +24,7 @@ Code | Wood | PC | SL | WP | WP (one-sided) | EM
 --- | --- | --- | --- | --- | --- | ---
 C1641-5 |||||| [91045](https://www.tomytec.co.jp/tomix/products/n/91045.html)◩ (2×) _‹cant›_<br>[91046](https://www.tomytec.co.jp/tomix/products/n/91046.html) (6×) _‹cant›_
 CR1641-5<br>CL1641-5 |||||| [91045](https://www.tomytec.co.jp/tomix/products/n/91045.html)◩ <span title="2× right + 2× left">(2× each)</span><br>_‹approach›_
+C1604-5 |||||| [91047](https://www.tomytec.co.jp/tomix/products/n/91047.html) (6×)<br>_‹cant convertible to approach›_
 C605-10 | [1870](https://www.tomytec.co.jp/tomix/products/n/1870.html) (4×) | [1190](https://www.tomytec.co.jp/tomix/products/n/1190.html) (4×) | railset only || [1750](https://www.tomytec.co.jp/tomix/products/n/1750.html)◩ <span title="2× inner + 2× outer">(2× each)</span>
 C541-15 | [1853](https://www.tomytec.co.jp/tomix/products/n/1853.html) (4×) | [1193](https://www.tomytec.co.jp/tomix/products/n/1193.html) (4×) ||| [1770](https://www.tomytec.co.jp/tomix/products/n/1770.html) (4× inner)
 C391-45 | [1858](https://www.tomytec.co.jp/tomix/products/n/1858.html) (4×) | [1198](https://www.tomytec.co.jp/tomix/products/n/1198.html) (4×) || [1774](https://www.tomytec.co.jp/tomix/products/n/1774.html) (4×) _‹cant›_
