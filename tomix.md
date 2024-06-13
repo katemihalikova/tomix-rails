@@ -60,13 +60,14 @@ None. WP tracks can be connected together to form double-track (or even more-tra
 ## Iron bridges
 Code | Type | Red | Dark green | Light green | Blue | Cream | Ivory
 --- | --- | --- | --- | --- | --- | --- | ---
+S420 | Iron truss | [3278](https://www.tomytec.co.jp/tomix/products/n/3278.html) (1×) 🆕 | [3279](https://www.tomytec.co.jp/tomix/products/n/3279.html) (1×) 🆕
 S280 | Iron truss | [3031](https://www.tomytec.co.jp/tomix/products/n/3031.html) (1×) | [3033](https://www.tomytec.co.jp/tomix/products/n/3033.html) (1×) || [3030](https://www.tomytec.co.jp/tomix/products/n/3030.html) (1×) | [3032](https://www.tomytec.co.jp/tomix/products/n/3032.html) (1×)
 S280 | Upper road iron truss | [3266](https://www.tomytec.co.jp/tomix/products/n/3266.html) (1×) | [3267](https://www.tomytec.co.jp/tomix/products/n/3267.html) (1×) | [3270](https://www.tomytec.co.jp/tomix/products/n/3270.html)◩ (2×)
 S140 | Iron pony truss | [3250](https://www.tomytec.co.jp/tomix/products/n/3250.html) (1×) ||| [3249](https://www.tomytec.co.jp/tomix/products/n/3249.html) (1×)
 S140 | Deck girder (old) | ~~3028 (1×)~~ | ~~3241 (1×)~~
-S140 | Deck girder (new) | [3255](https://www.tomytec.co.jp/tomix/products/n/3255.html) (1×) | [3256](https://www.tomytec.co.jp/tomix/products/n/3256.html) (1×) | [3270](https://www.tomytec.co.jp/tomix/products/n/3270.html)◩ (4×) ||| [3277](https://www.tomytec.co.jp/tomix/products/n/3277.html)◩ (1×) 🆕
+S140 | Deck girder (new) | [3255](https://www.tomytec.co.jp/tomix/products/n/3255.html) (1×) | [3256](https://www.tomytec.co.jp/tomix/products/n/3256.html) (1×) | [3270](https://www.tomytec.co.jp/tomix/products/n/3270.html)◩ (4×) ||| [3277](https://www.tomytec.co.jp/tomix/products/n/3277.html)◩ (1×)
 S140 | Girder with walls (PC track) |||| [3027](https://www.tomytec.co.jp/tomix/products/n/3027.html) (1×)
-S70 | Deck girder | [3273](https://www.tomytec.co.jp/tomix/products/n/3273.html) (2×) | [3274](https://www.tomytec.co.jp/tomix/products/n/3274.html) (2×) |||| [3277](https://www.tomytec.co.jp/tomix/products/n/3277.html)◩ (2×) 🆕
+S70 | Deck girder | [3273](https://www.tomytec.co.jp/tomix/products/n/3273.html) (2×) | [3274](https://www.tomytec.co.jp/tomix/products/n/3274.html) (2×) |||| [3277](https://www.tomytec.co.jp/tomix/products/n/3277.html)◩ (2×)
 S70 | Through girder | [3247](https://www.tomytec.co.jp/tomix/products/n/3247.html) (2×) | [3248](https://www.tomytec.co.jp/tomix/products/n/3248.html) (2×)
 S35 | Through girder | [3264](https://www.tomytec.co.jp/tomix/products/n/3264.html) (2×) | [3265](https://www.tomytec.co.jp/tomix/products/n/3265.html) (2×)
 
