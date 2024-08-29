@@ -196,6 +196,14 @@ Lights | Wood | PC | WP
 🟡🔴🟡🟢─┤ | [5561](https://www.tomytec.co.jp/tomix/products/n/5561.html) (1×) | [5571](https://www.tomytec.co.jp/tomix/products/n/5571.html) (1×) | [5571](https://www.tomytec.co.jp/tomix/products/n/5571.html) (1×)
 🟡🟡🔴🟡🟢─┤ | [5560](https://www.tomytec.co.jp/tomix/products/n/5560.html) (1×) | [5570](https://www.tomytec.co.jp/tomix/products/n/5570.html) (1×) | [5570](https://www.tomytec.co.jp/tomix/products/n/5570.html) (1×)
 
+# Semaphores
+Type | Main line | Secondary line
+--- | --- | ---
+Distant Entry | [5546](https://www.tomytec.co.jp/tomix/products/n/5565.html) (1×)
+Entry | [5545](https://www.tomytec.co.jp/tomix/products/n/5565.html) (1×) | [5544](https://www.tomytec.co.jp/tomix/products/n/5565.html) (1×)
+Passing Entry | [5542](https://www.tomytec.co.jp/tomix/products/n/5565.html) (1×)
+Exit | [5541](https://www.tomytec.co.jp/tomix/products/n/5565.html) (1×) | [5543](https://www.tomytec.co.jp/tomix/products/n/5565.html) (1×)
+
 # Sensors
 Code | Wood | PC | SL | WP | WT
 --- | --- | --- | --- | --- | ---
