@@ -86,6 +86,8 @@ graph LR
     S --->|S72.5| S72_5["1013 (4×)"]
     S --->|S70| S70["1014 (4×)"]
     S --->|S35| S35["1530 (4×)"]
+    S --->|S33| S33["1098◩ (4×)"]
+    S --->|S18.5| S18_5["1098◩ (4×)"]
 
     Ci(Curved track) ---> C{Radius}
     C --->|C605| C605{Angle}
@@ -114,6 +116,7 @@ graph LR
     HS --->|HS140| HS140["1821 (4×)"]
     HS --->|HS99| HS99["1825 (4×)"]
     HS --->|HS70| HS70["combine 3064 (1×) + 1014 (4×)"]
+    HS --->|HS35| HS35["combine 3232◩ (4×) + 1530 (4×)"]
 
     HCi(Curved viaduct) --->|Single-track| HC{Radius<br>Angle}
     HC --->|HC541-15| HC54115["1876 (4×)"]
@@ -126,6 +129,7 @@ graph LR
     DS --->|DS1120| DS1120["1819 (2×)"]
     DS --->|DS280| DS280["1812 (2×)"]
     DS --->|DS140| DS140["1811 (2×)"]
+    DS --->|HDS35| HDS35["combine 3232◩ (2×) + 1530 (2×)"]
 
     HCi --->|Double-track| DC{Radius<br>Angle}
     DC --->|DC465/428-45| DC465428["1883 (2×)"]
