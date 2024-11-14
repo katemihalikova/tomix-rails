@@ -1,4 +1,5 @@
 For turnouts, crossing rails, bridges, viaducts without tracks, and turntable, see [table view](tomix.md).
+Number in brackets means how many of that particular piece is yielded by one box of that particular product number.
 
 # Wood
 
@@ -54,13 +55,22 @@ graph LR
     HS --->|HS140| HS140["1071 (2×) ❌"]:::cancelled
     HS --->|HS99| HS99["1075 (2×) ❌"]:::cancelled
     HS --->|HS70| HS70["combine 3064 (1×) + 1804 (4×)"]
+    HS --->|HS35| HS35["combine 3232◩ (4×) + 1529 (4×)"]
 
     HCi(Curved viaduct) -->|Single-track| HC{Radius<br>Angle}
     HC --->|HC391-45| HC39145["1174 (2×) ❌"]:::cancelled
     HC --->|HC354-45| HC35445["1172 (2×) ❌"]:::cancelled
     HC --->|HC317-45| HC31745["1171 (2×) ❌"]:::cancelled
     HC --->|HC280-45| HC28045["1173 (2×) ❌"]:::cancelled
-    
+
+    HSi -->|Double-track| DS{Length}
+    DS --->|HDS140| HDS140["combine 3262 (2×) + 1801 (2×)"]
+    DS --->|HDS35| HDS35["combine 3232◩ (2×) + 1529 (2×)"]
+
+    HCi -->|Double-track| DC{Radius<br>Angle}
+    DC --->|HDC317/280-45| HDC31728045["combine 3065◩ (1×) + 1851 (4×) + 1852 (4×)"]
+    DC --->|HDC317/280-15| HDC31728015["combine 3065◩ (3×) + 1854 (4×) + 1127 (2×) ❌"]:::cancelled
+
     spi(Special track) --> sp{Type}
     sp --->|S140-RE| S140RE["1523◩ (1×)"]
     sp --->|S140 cleaning rail| S140CL["6414 (1×) ❌"]:::cancelled
@@ -124,17 +134,21 @@ graph LR
     HC --->|HC354-45| HC35445["1872 (4×)"]
     HC --->|HC317-45| HC31745["1871 (4×)"]
     HC --->|HC280-45| HC28045["1873 (4×)"]
-    
+
     HSi --->|Double-track| DS{Length}
     DS --->|DS1120| DS1120["1819 (2×)"]
     DS --->|DS280| DS280["1812 (2×)"]
     DS --->|DS140| DS140["1811 (2×)"]
+    DS --->|HDS140| HDS140["combine 3262 (2×) + 1769 (2×)"]
+    DS --->|HDS70| HDS70["combine 3064 (½×) + 1764 (2×)"]
     DS --->|HDS35| HDS35["combine 3232◩ (2×) + 1530 (2×)"]
 
     HCi --->|Double-track| DC{Radius<br>Angle}
     DC --->|DC465/428-45| DC465428["1883 (2×)"]
     DC --->|DC391/354-45| DC391354["1882 (2×)"]
     DC --->|DC317/280-45| DC317280["1881 (2×)"]
+    DC --->|HDC317/280-45| HDC31728045["combine 3065◩ (1×) + 1191 (4×) + 1192 (4×)"]
+    DC --->|HDC317/280-15| HDC31728015["combine 3065◩ (3×) + 1194 (4×) + 1197 (4×)"]
 
     spi(Special track) ---> sp{Type}
     sp --->|S140-RE| S140RE["1524◩ (1×)"]
@@ -197,7 +211,7 @@ graph LR
     S33 --->|Two-sided| S33TS["1738◩ (4×)"]
     S --->|S18.5| S185{Ballast}
     S185 --->|Two-sided| S185TS["1738◩ (4×)"]
-    
+
     S280TS & S280OS --->|Pier base| HS280["3090 (4×)"]
     S1585TS --->|Pier base| HS1585["3098 (8×)"]
     S140TS & S140OS --->|Pier base| HS140["3090 (8×)"]

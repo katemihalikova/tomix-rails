@@ -1,6 +1,6 @@
+Number in brackets means how many of that particular piece is yielded by one box of that particular product number.  
 <sub>◩ This piece is part of a set that contains multiple different pieces.</sub>  
 <sup>⬙ This piece can also be used as a ground double-track piece with integrated walls.</sup>
-
 
 # Common single-track rails
 
@@ -119,6 +119,7 @@ HS35 | [3232](https://www.tomytec.co.jp/tomix/products/n/3232.html)◩ (4×) �
 HDS140 | [3262](https://www.tomytec.co.jp/tomix/products/n/3262.html) (2×) | [3261](https://www.tomytec.co.jp/tomix/products/n/3261.html) (2×)
 HDS140-55.5 | [3262](https://www.tomytec.co.jp/tomix/products/n/3262.html) (2×) | [3261](https://www.tomytec.co.jp/tomix/products/n/3261.html) (2×)
 HDS140-74 | [3262](https://www.tomytec.co.jp/tomix/products/n/3262.html)+[3263](https://www.tomytec.co.jp/tomix/products/n/3263.html) (2×) | [3261](https://www.tomytec.co.jp/tomix/products/n/3261.html)+[3263](https://www.tomytec.co.jp/tomix/products/n/3263.html) (2×)
+HDS70 | [3064](https://www.tomytec.co.jp/tomix/products/n/3064.html) (½×)
 HDS35 | [3232](https://www.tomytec.co.jp/tomix/products/n/3232.html)◩ (4×) 🆕
 HDC317/280-15 | [3065](https://www.tomytec.co.jp/tomix/products/n/3065.html) (3×)
 HPR541-15-55.5 | [3066](https://www.tomytec.co.jp/tomix/products/n/3066.html)◩ (1×)
