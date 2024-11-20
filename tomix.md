@@ -125,23 +125,26 @@ HDC317/280-15 | [3065](https://www.tomytec.co.jp/tomix/products/n/3065.html) (3�
 HPR541-15-55.5 | [3066](https://www.tomytec.co.jp/tomix/products/n/3066.html)◩ (1×)
 HPL541-15-55.5 | [3066](https://www.tomytec.co.jp/tomix/products/n/3066.html)◩ (1×)
 
-## WP track pier bases
-Code | Pier base
---- | ---
-S158.5 | [3098](https://www.tomytec.co.jp/tomix/products/n/3098.html) (8×)
-S140 | [3090](https://www.tomytec.co.jp/tomix/products/n/3090.html) (8×)
-S99 | [3097](https://www.tomytec.co.jp/tomix/products/n/3097.html) (8×)
-S72.5 | [3099](https://www.tomytec.co.jp/tomix/products/n/3099.html)◩ (2×)
-S70 | [3060](https://www.tomytec.co.jp/tomix/products/n/3060.html)◩ (2×)<br>[3099](https://www.tomytec.co.jp/tomix/products/n/3099.html)◩ (2×)
-S33 | [3069](https://www.tomytec.co.jp/tomix/products/n/3069.html)◩ (4×)
-S18.5 | [3069](https://www.tomytec.co.jp/tomix/products/n/3069.html)◩ (4×)
-C605-10 | [3060](https://www.tomytec.co.jp/tomix/products/n/3060.html)◩ (4×)
-C541-15 | [3099](https://www.tomytec.co.jp/tomix/products/n/3099.html)◩ (2×)
-C391-22.5 | [3094](https://www.tomytec.co.jp/tomix/products/n/3094.html) (8×)
-C354-22.5 | [3093](https://www.tomytec.co.jp/tomix/products/n/3093.html) (8×)
-C317-22.5 | [3092](https://www.tomytec.co.jp/tomix/products/n/3092.html) (8×)
-C280-22.5 | [3091](https://www.tomytec.co.jp/tomix/products/n/3091.html) (8×)
-E | [3099](https://www.tomytec.co.jp/tomix/products/n/3099.html)◩ (2×)
+## WP track pier bases & walls/fences/handrails
+Code | Pier base | Wall | Fence | Handrail
+--- | --- | --- | --- | ---
+S158.5 | [3098](https://www.tomytec.co.jp/tomix/products/n/3098.html) (8×) | [3089](https://www.tomytec.co.jp/tomix/products/n/3089.html)◩ (8×) | [3089](https://www.tomytec.co.jp/tomix/products/n/3089.html)◩ (8×) | [3089](https://www.tomytec.co.jp/tomix/products/n/3089.html)◩ (8×)
+S140 | [3090](https://www.tomytec.co.jp/tomix/products/n/3090.html) (8×) | [3080](https://www.tomytec.co.jp/tomix/products/n/3080.html)◩ (8×)<br>[3057](https://www.tomytec.co.jp/tomix/products/n/3057.html)◩ (8×) | [3080](https://www.tomytec.co.jp/tomix/products/n/3080.html)◩ (8×)<br>[3055](https://www.tomytec.co.jp/tomix/products/n/3055.html)◩ (8×) | [3080](https://www.tomytec.co.jp/tomix/products/n/3080.html)◩ (8×)<br>[3056](https://www.tomytec.co.jp/tomix/products/n/3056.html)◩ (8×)
+S99 | [3097](https://www.tomytec.co.jp/tomix/products/n/3097.html) (8×) | [3088](https://www.tomytec.co.jp/tomix/products/n/3088.html)◩ (8×) | [3088](https://www.tomytec.co.jp/tomix/products/n/3088.html)◩ (8×) | [3088](https://www.tomytec.co.jp/tomix/products/n/3088.html)◩ (8×)
+S72.5 | [3099](https://www.tomytec.co.jp/tomix/products/n/3099.html)◩ (2×) | [3057](https://www.tomytec.co.jp/tomix/products/n/3057.html)◩ (8×) | [3055](https://www.tomytec.co.jp/tomix/products/n/3055.html)◩ (8×) | [3056](https://www.tomytec.co.jp/tomix/products/n/3056.html)◩ (8×)
+S70 | [3060](https://www.tomytec.co.jp/tomix/products/n/3060.html)◩ (2×)<br>[3099](https://www.tomytec.co.jp/tomix/products/n/3099.html)◩ (2×) | [3057](https://www.tomytec.co.jp/tomix/products/n/3057.html)◩ (8×)<br>[3054](https://www.tomytec.co.jp/tomix/products/n/3054.html)◩ (8×) | [3055](https://www.tomytec.co.jp/tomix/products/n/3055.html)◩ (8×)<br>[3054](https://www.tomytec.co.jp/tomix/products/n/3054.html)◩ (8×) | [3056](https://www.tomytec.co.jp/tomix/products/n/3056.html)◩ (8×)<br>[3054](https://www.tomytec.co.jp/tomix/products/n/3054.html)◩ (8×)
+S70 (signal) | _use S70_ | [3054](https://www.tomytec.co.jp/tomix/products/n/3054.html)◩ (8+8×) | [3054](https://www.tomytec.co.jp/tomix/products/n/3054.html)◩ (8+8×) | [3054](https://www.tomytec.co.jp/tomix/products/n/3054.html)◩ (8+8×)
+S33 | [3069](https://www.tomytec.co.jp/tomix/products/n/3069.html)◩ (4×) | [3088](https://www.tomytec.co.jp/tomix/products/n/3088.html)◩ (8+8+8×) | [3088](https://www.tomytec.co.jp/tomix/products/n/3088.html)◩ (8+8+8×) | [3088](https://www.tomytec.co.jp/tomix/products/n/3088.html)◩ (8+8+8×)
+S18.5 | [3069](https://www.tomytec.co.jp/tomix/products/n/3069.html)◩ (4×) | [3088](https://www.tomytec.co.jp/tomix/products/n/3088.html)◩ (8+8×) | [3088](https://www.tomytec.co.jp/tomix/products/n/3088.html)◩ (8+8×) | [3088](https://www.tomytec.co.jp/tomix/products/n/3088.html)◩ (8+8×)
+C605-10 | [3060](https://www.tomytec.co.jp/tomix/products/n/3060.html)◩ (4×) | _use S140 + S70 for S-curve_ | _use S140 + S70 for S-curve_ | _use S140 + S70 for S-curve_
+C541-15 | [3099](https://www.tomytec.co.jp/tomix/products/n/3099.html)◩ (2×) | [3057](https://www.tomytec.co.jp/tomix/products/n/3057.html)◩ (8+8×) | [3055](https://www.tomytec.co.jp/tomix/products/n/3055.html)◩ (8+8×) | [3056](https://www.tomytec.co.jp/tomix/products/n/3056.html)◩ (8+8×)
+C391-22.5 | [3094](https://www.tomytec.co.jp/tomix/products/n/3094.html) (8×) | [3085](https://www.tomytec.co.jp/tomix/products/n/3085.html)◩ (8×) _‹outer›_<br>[3084](https://www.tomytec.co.jp/tomix/products/n/3084.html)◩ (8×) _‹inner›_ | [3085](https://www.tomytec.co.jp/tomix/products/n/3085.html)◩ (8×) _‹outer›_<br>[3084](https://www.tomytec.co.jp/tomix/products/n/3084.html)◩ (8×) _‹inner›_ | [3085](https://www.tomytec.co.jp/tomix/products/n/3085.html)◩ (8×) _‹outer›_<br>[3084](https://www.tomytec.co.jp/tomix/products/n/3084.html)◩ (8×) _‹inner›_
+C354-22.5 | [3093](https://www.tomytec.co.jp/tomix/products/n/3093.html) (8×) | [3084](https://www.tomytec.co.jp/tomix/products/n/3084.html)◩ (8×) _‹outer›_<br>[3083](https://www.tomytec.co.jp/tomix/products/n/3083.html)◩ (8×) _‹inner›_ | [3084](https://www.tomytec.co.jp/tomix/products/n/3084.html)◩ (8×) _‹outer›_<br>[3083](https://www.tomytec.co.jp/tomix/products/n/3083.html)◩ (8×) _‹inner›_ | [3084](https://www.tomytec.co.jp/tomix/products/n/3084.html)◩ (8×) _‹outer›_<br>[3083](https://www.tomytec.co.jp/tomix/products/n/3083.html)◩ (8×) _‹inner›_
+C317-22.5 | [3092](https://www.tomytec.co.jp/tomix/products/n/3092.html) (8×) | [3083](https://www.tomytec.co.jp/tomix/products/n/3083.html)◩ (8×) _‹outer›_<br>[3082](https://www.tomytec.co.jp/tomix/products/n/3082.html)◩ (8×) _‹inner›_ | [3083](https://www.tomytec.co.jp/tomix/products/n/3083.html)◩ (8×) _‹outer›_<br>[3082](https://www.tomytec.co.jp/tomix/products/n/3082.html)◩ (8×) _‹inner›_ | [3083](https://www.tomytec.co.jp/tomix/products/n/3083.html)◩ (8×) _‹outer›_<br>[3082](https://www.tomytec.co.jp/tomix/products/n/3082.html)◩ (8×) _‹inner›_
+C280-22.5 | [3091](https://www.tomytec.co.jp/tomix/products/n/3091.html) (8×) | [3082](https://www.tomytec.co.jp/tomix/products/n/3082.html)◩ (8×) _‹outer›_<br>[3081](https://www.tomytec.co.jp/tomix/products/n/3081.html)◩ (8×) _‹inner›_ | [3082](https://www.tomytec.co.jp/tomix/products/n/3082.html)◩ (8×) _‹outer›_<br>[3081](https://www.tomytec.co.jp/tomix/products/n/3081.html)◩ (8×) _‹inner›_ | [3082](https://www.tomytec.co.jp/tomix/products/n/3082.html)◩ (8×) _‹outer›_<br>[3081](https://www.tomytec.co.jp/tomix/products/n/3081.html)◩ (8×) _‹inner›_
+E | [3099](https://www.tomytec.co.jp/tomix/products/n/3099.html)◩ (2×) | [3057](https://www.tomytec.co.jp/tomix/products/n/3057.html)◩ (8+16+16+8×) | [3055](https://www.tomytec.co.jp/tomix/products/n/3055.html)◩ (8+16+16+8×) | [3056](https://www.tomytec.co.jp/tomix/products/n/3056.html)◩ (8+16+16+8×)
+PR541-15<br>PL541-15 || [3057](https://www.tomytec.co.jp/tomix/products/n/3057.html)◩ (8+8×) | [3055](https://www.tomytec.co.jp/tomix/products/n/3055.html)◩ (8+8×) | [3056](https://www.tomytec.co.jp/tomix/products/n/3056.html)◩ (8+8×)
+PX280 || [3057](https://www.tomytec.co.jp/tomix/products/n/3057.html)◩ (4×) | [3055](https://www.tomytec.co.jp/tomix/products/n/3055.html)◩ (4×) | [3056](https://www.tomytec.co.jp/tomix/products/n/3056.html)◩ (4×)
 
 # Turnouts
 Code | Wood/electric | Wood/manual | SY/electric | SY/manual
