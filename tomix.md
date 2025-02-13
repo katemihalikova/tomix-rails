@@ -27,7 +27,7 @@ CR1641-5<br>CL1641-5 |||||| [91045](https://www.tomytec.co.jp/tomix/products/n/9
 C1604-5 |||||| [91047](https://www.tomytec.co.jp/tomix/products/n/91047.html) (6×) 🆕<br>_‹cant convertible to approach›_
 C605-10 | [1870](https://www.tomytec.co.jp/tomix/products/n/1870.html) (4×) | [1190](https://www.tomytec.co.jp/tomix/products/n/1190.html) (4×) | railset only || [1750](https://www.tomytec.co.jp/tomix/products/n/1750.html)◩ <span title="2× inner + 2× outer">(2× each)</span>
 C541-15 | [1853](https://www.tomytec.co.jp/tomix/products/n/1853.html) (4×) | [1193](https://www.tomytec.co.jp/tomix/products/n/1193.html) (4×) ||| [1770](https://www.tomytec.co.jp/tomix/products/n/1770.html) (4× inner)
-C541-7.5 || 🆕
+C541-7.5 || [1199](https://www.tomytec.co.jp/tomix/products/n/1199.html) (4×) 🆕
 C391-45 | [1858](https://www.tomytec.co.jp/tomix/products/n/1858.html) (4×) | [1198](https://www.tomytec.co.jp/tomix/products/n/1198.html) (4×) || [1774](https://www.tomytec.co.jp/tomix/products/n/1774.html) (4×) _‹cant›_
 CR391-22.5<br>CL391-22.5 |||| [1784](https://www.tomytec.co.jp/tomix/products/n/1784.html) <span title="2× right + 2× left">(2× each)</span><br>_‹approach›_
 C391-15 | ~~1145 (2×)~~ | [1865](https://www.tomytec.co.jp/tomix/products/n/1865.html) (4×)
