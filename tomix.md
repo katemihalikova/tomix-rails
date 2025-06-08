@@ -116,12 +116,14 @@ DC317/280-45⬙ || [1881](https://www.tomytec.co.jp/tomix/products/n/1881.html) 
 Code | With walls | With outer platform space
 --- | --- | ---
 HS70 | [3064](https://www.tomytec.co.jp/tomix/products/n/3064.html) (1×)
-HS35 | [3232](https://www.tomytec.co.jp/tomix/products/n/3232.html)◩ (4×) 🆕
+HS35 | [3232](https://www.tomytec.co.jp/tomix/products/n/3232.html)◩ (2×) 🆕
 HDS140 | [3262](https://www.tomytec.co.jp/tomix/products/n/3262.html) (2×) | [3261](https://www.tomytec.co.jp/tomix/products/n/3261.html) (2×)
 HDS140-55.5 | [3262](https://www.tomytec.co.jp/tomix/products/n/3262.html) (2×) | [3261](https://www.tomytec.co.jp/tomix/products/n/3261.html) (2×)
 HDS140-74 | [3262](https://www.tomytec.co.jp/tomix/products/n/3262.html)+[3263](https://www.tomytec.co.jp/tomix/products/n/3263.html) (2×) | [3261](https://www.tomytec.co.jp/tomix/products/n/3261.html)+[3263](https://www.tomytec.co.jp/tomix/products/n/3263.html) (2×)
 HDS70 | [3064](https://www.tomytec.co.jp/tomix/products/n/3064.html) (½×)
-HDS35 | [3232](https://www.tomytec.co.jp/tomix/products/n/3232.html)◩ (4×) 🆕
+HDS35 | [3232](https://www.tomytec.co.jp/tomix/products/n/3232.html)◩ (2×) 🆕
+HDS35-55.5 | [3232](https://www.tomytec.co.jp/tomix/products/n/3232.html)◩ (1×) 🆕
+HDS35-74 | [3232](https://www.tomytec.co.jp/tomix/products/n/3232.html)◩ (1×) 🆕
 HDC317/280-15 | [3065](https://www.tomytec.co.jp/tomix/products/n/3065.html) (3×)
 HPR541-15-55.5 | [3066](https://www.tomytec.co.jp/tomix/products/n/3066.html)◩ (1×)
 HPL541-15-55.5 | [3066](https://www.tomytec.co.jp/tomix/products/n/3066.html)◩ (1×)
