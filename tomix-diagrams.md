@@ -1,4 +1,4 @@
-For turnouts, crossing rails, bridges, viaducts without tracks, and turntable, see [table view](tomix.md).
+For turnouts, crossing rails, bridges, viaducts without tracks, embankments, and turntable, see [table view](tomix.md).
 Number in brackets means how many of that particular piece is yielded by one box of that particular product number.
 
 # Wood
@@ -20,6 +20,10 @@ graph LR
     S --->|S18.5| S18_5["1099◩ (2×)<br>1324◩ (4×)"]
 
     Ci(Curved track) --> C{Radius}
+    C --->|C1641| C1641{Angle}
+    C1641 -->|C1641-5| C16415["91045◩ (6×)<br>91046◩ (6×)"]
+    C --->|C1604| C1604{Angle}
+    C1604 -->|C1604-5| C16045["91047◩ (6×)"]
     C --->|C605| C605{Angle}
     C605 -->|C605-10| C60510["1870 (4×)"]
     C --->|C541| C541{Angle}
@@ -55,7 +59,7 @@ graph LR
     HS --->|HS140| HS140["1071 (2×) ❌"]:::cancelled
     HS --->|HS99| HS99["1075 (2×) ❌"]:::cancelled
     HS --->|HS70| HS70["combine 3064 (1×) + 1804 (4×)"]
-    HS --->|HS35| HS35["combine 3232◩ (4×) + 1529 (4×)"]
+    HS --->|HS35| HS35["combine 3232◩ (2×) + 1529 (4×)"]
 
     HCi(Curved viaduct) -->|Single-track| HC{Radius<br>Angle}
     HC --->|HC391-45| HC39145["1174 (2×) ❌"]:::cancelled
@@ -65,7 +69,7 @@ graph LR
 
     HSi -->|Double-track| DS{Length}
     DS --->|HDS140| HDS140["combine 3262 (2×) + 1801 (2×)"]
-    DS --->|HDS35| HDS35["combine 3232◩ (2×) + 1529 (2×)"]
+    DS --->|HDS35| HDS35["combine 3232◩ (1×) + 1529 (2×)"]
 
     HCi -->|Double-track| DC{Radius<br>Angle}
     DC --->|HDC317/280-45| HDC31728045["combine 3065◩ (1×) + 1851 (4×) + 1852 (4×)"]
@@ -104,6 +108,7 @@ graph LR
     C605 -->|C605-10| C60510["1190 (4×)"]
     C --->|C541| C541{Angle}
     C541 -->|C541-15| C54115["1193 (4×)"]
+    C541 -->|C541-7.5| C54175["1199 (4×)"]
     C --->|C391| C391{Angle}
     C391 -->|C391-45| C39145["1198 (4×)"]
     C391 -->|C391-15| C39115["1865 (2×)"]
@@ -310,26 +315,4 @@ graph LR
 
     Si(Straight track) --> S{Length}
     S --->|S175| S175["railset only"]:::railsetonly
-```
-
-# EM
-
-```mermaid
-graph LR
-    classDef cancelled fill:#fbb,stroke:#f22;
-    classDef railsetonly fill:#ff7,stroke:#aa0;
-
-    Si(Straight embankment) --> S{Length}
-    S --->|S140| S140{Rail type}
-    S140 --->|Wood| S140W["91045◩ (1×)"]
-    S140 --->|PC| S140PC["combine 1011 (4×) + 91045◩ (1×)<br>combine 1524◩ (1×) + 91045◩ (1×)"]
-    S140 --->|SL| S140SL["combine 1047 (4×) + 91045◩ (1×)"]
-    S140 --->|WP| S140WP["combine 1761 (4×) + 3228 (4×)<br>combine 1761 (4×) + 3229 (2×)"]
-
-    Ci(Curved embankment) --> C{Radius<br>Rail type}
-    C --->|C1604 Wood| C1604{Cant type<br>Angle}
-    C --->|C1641 Wood| C1641{Cant type<br>Angle}
-    C1604 --->|"Cant convertible to approach, 5°"| C1604CA["91047 (6×)"]
-    C1641 --->|"Cant, 5°"| C1641C["91045◩ (2×)<br>91046 (6×)"]
-    C1641 --->|"Approach 2× 5°"| C1641A["91045◩ (2×)"]
 ```

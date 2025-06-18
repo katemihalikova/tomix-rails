@@ -20,11 +20,10 @@ S33 | [1099](https://www.tomytec.co.jp/tomix/products/n/1099.html)◩ (2×)<br>[
 S18.5 | [1099](https://www.tomytec.co.jp/tomix/products/n/1099.html)◩ (2×)<br>[1324](https://www.tomytec.co.jp/tomix/products/n/1324.html)◩ (4×) | [1098](https://www.tomytec.co.jp/tomix/products/n/1098.html)◩ (4×) 🆕 || [1738](https://www.tomytec.co.jp/tomix/products/n/1738.html)◩ (4×) || [1798](https://www.tomytec.co.jp/tomix/products/n/1798.html)◩ (1×)<br>[1799](https://www.tomytec.co.jp/tomix/products/n/1799.html)◩ (2×)
 
 ## Curved rails
-Code | Wood | PC | SL | WP | WP (one-sided) | EM
---- | --- | --- | --- | --- | --- | ---
-C1641-5 |||||| [91045](https://www.tomytec.co.jp/tomix/products/n/91045.html)◩ (2×) _‹cant›_<br>[91046](https://www.tomytec.co.jp/tomix/products/n/91046.html) (6×) _‹cant›_
-CR1641-5<br>CL1641-5 |||||| [91045](https://www.tomytec.co.jp/tomix/products/n/91045.html)◩ <span title="2× right + 2× left">(2× each)</span><br>_‹approach›_
-C1604-5 |||||| [91047](https://www.tomytec.co.jp/tomix/products/n/91047.html) (6×) 🆕<br>_‹cant convertible to approach›_
+Code | Wood | PC | SL | WP | WP (one-sided)
+--- | --- | --- | --- | --- | --- 
+C1641-5 | <!-- [1897](https://www.tomytec.co.jp/tomix/products/n/1897.html) (4×)<br> -->[91045](https://www.tomytec.co.jp/tomix/products/n/91045.html)◩ (6×)<br>[91046](https://www.tomytec.co.jp/tomix/products/n/91046.html)◩ (6×) | <!-- [1899](https://www.tomytec.co.jp/tomix/products/n/1899.html) (4×) -->
+C1604-5 | <!-- [1896](https://www.tomytec.co.jp/tomix/products/n/1896.html) (4×)<br> -->[91047](https://www.tomytec.co.jp/tomix/products/n/91047.html)◩ (6×) | <!-- [1898](https://www.tomytec.co.jp/tomix/products/n/1898.html) (4×) -->
 C605-10 | [1870](https://www.tomytec.co.jp/tomix/products/n/1870.html) (4×) | [1190](https://www.tomytec.co.jp/tomix/products/n/1190.html) (4×) | railset only || [1750](https://www.tomytec.co.jp/tomix/products/n/1750.html)◩ <span title="2× inner + 2× outer">(2× each)</span>
 C541-15 | [1853](https://www.tomytec.co.jp/tomix/products/n/1853.html) (4×) | [1193](https://www.tomytec.co.jp/tomix/products/n/1193.html) (4×) ||| [1770](https://www.tomytec.co.jp/tomix/products/n/1770.html) (4× inner)
 C541-7.5 || [1199](https://www.tomytec.co.jp/tomix/products/n/1199.html) (4×) 🆕
@@ -149,6 +148,35 @@ E | [3099](https://www.tomytec.co.jp/tomix/products/n/3099.html)◩ (2×) | [305
 PR541-15<br>PL541-15 || [3057](https://www.tomytec.co.jp/tomix/products/n/3057.html)◩ (8+8×) | [3055](https://www.tomytec.co.jp/tomix/products/n/3055.html)◩ (8+8×) | [3056](https://www.tomytec.co.jp/tomix/products/n/3056.html)◩ (8+8×)
 PX280 || [3057](https://www.tomytec.co.jp/tomix/products/n/3057.html)◩ (4×) | [3055](https://www.tomytec.co.jp/tomix/products/n/3055.html)◩ (4×) | [3056](https://www.tomytec.co.jp/tomix/products/n/3056.html)◩ (4×)
 
+# Embankments
+
+## Straight embankments
+
+Code | No rails (use WP) | Wood (EM)
+--- | --- | ---
+S140 | [3228](https://www.tomytec.co.jp/tomix/products/n/3228.html)◩ (4×)<br>[3229](https://www.tomytec.co.jp/tomix/products/n/3229.html) (2×) | [91045](https://www.tomytec.co.jp/tomix/products/n/91045.html)◩ (1×)
+S35 | [3232](https://www.tomytec.co.jp/tomix/products/n/3232.html)◩ (2×)
+S5 | [3232](https://www.tomytec.co.jp/tomix/products/n/3232.html)◩ (1×)<br>[91047](https://www.tomytec.co.jp/tomix/products/n/91047.html)◩ (2×)
+S2.5 | [3232](https://www.tomytec.co.jp/tomix/products/n/3232.html)◩ (1×)<br>[91047](https://www.tomytec.co.jp/tomix/products/n/91047.html)◩ (2×)
+
+[91047](https://www.tomytec.co.jp/tomix/products/n/91047.html)◩ contains pieces that can be used to create S145 embankment with Wood (EM) rails (S140 embankment and 2× S72.5 Wood rail not included).
+
+Multiple-track embankments can be created by combining single-track embankment with appropriate number of embankment piers. Embankments can be stacked, each level requires a base the size of one-more-track embankment, levels can be combined together. Embankment level 1 equals pier size P4, embankment level 2 equals pier size P10, number of levels is unlimited.
+
+## Curved embankments
+Code | Wood (EM)
+--- | ---
+C1641-5 | [91045](https://www.tomytec.co.jp/tomix/products/n/91045.html)◩ (6×) _‹normal or cant or approach›_<br>[91046](https://www.tomytec.co.jp/tomix/products/n/91046.html) (6×) _‹normal or cant or approach›_
+|
+DC1641/1604-5 | [91045](https://www.tomytec.co.jp/tomix/products/n/91045.html)◩ + [91047](https://www.tomytec.co.jp/tomix/products/n/91047.html)◩ (6×) _‹normal or cant or approach›_<br>[91046](https://www.tomytec.co.jp/tomix/products/n/91046.html) + [91047](https://www.tomytec.co.jp/tomix/products/n/91047.html)◩ (6×) _‹normal or cant or approach›_
+
+## Embankment ends and piers
+
+Type | ​
+--- | ---
+End (1× left + 1× right) | [3228](https://www.tomytec.co.jp/tomix/products/n/3228.html)◩ (4×)<br>[3230](https://www.tomytec.co.jp/tomix/products/n/3230.html) (2×)<br>[3232](https://www.tomytec.co.jp/tomix/products/n/3232.html)◩ (4×)
+Pier (end or middle) | [3228](https://www.tomytec.co.jp/tomix/products/n/3228.html)◩ (6×)<br>[3231](https://www.tomytec.co.jp/tomix/products/n/3231.html) (6×)<br>[3232](https://www.tomytec.co.jp/tomix/products/n/3232.html)◩ (4×)
+
 # Turnouts
 Code | Wood/electric | Wood/manual | SY/electric | SY/manual
 --- | --- | --- | --- | ---
@@ -162,7 +190,7 @@ PRL541/280-15 | [1261](https://www.tomytec.co.jp/tomix/products/n/1261.html) (1�
 PLR541/280-15 | [1262](https://www.tomytec.co.jp/tomix/products/n/1262.html) (1×)
 CPR317/280-45 | [1278](https://www.tomytec.co.jp/tomix/products/n/1278.html) (1×) || railset only
 CPL317/280-45 | [1279](https://www.tomytec.co.jp/tomix/products/n/1279.html) (1×) || railset only
-PX280 | [1247](https://www.tomytec.co.jp/tomix/products/n/1247.html) (1×) || railset only 🆕
+PX280 | [1247](https://www.tomytec.co.jp/tomix/products/n/1247.html) (1×) || railset only
 PXR140-15 | [1245](https://www.tomytec.co.jp/tomix/products/n/1245.html) (1×)
 PXL140-15 | [1246](https://www.tomytec.co.jp/tomix/products/n/1246.html) (1×)
 PY280-15 | [1240](https://www.tomytec.co.jp/tomix/products/n/1240.html) (1×)
@@ -257,7 +285,7 @@ Description | RO (new) | RO (old)
 Bus stop<br>_(3× S70 with printed markings)_ | [BS-002](https://diocolle.tomytec.co.jp/product/detail.html?jan=4543736325598)◩ (1 set) | ~~BS-001◩ (1 set)~~
 BRT bus stop<br>_(2× S70 with printed line + 1× S70 with green crosswalk)_ || ~~BRT◩ (2 sets)~~
 BRT entry road<br>_(half orange S70)_ || ~~BRT◩ (2×)~~
-Mode interchange<br>_(1× S70 with printed lines + rail pieces: 1× S70-WT with concrete & ballast print + 1× S70-PC)_ | [DMV-931](https://diocolle.tomytec.co.jp/product/detail.html?jan=4543736325451)◩ (1 set)<br>[DMV-932](https://diocolle.tomytec.co.jp/product/detail.html?jan=4543736330929)◩ (1 set) 🆕
+Mode interchange<br>_(1× S70 with printed lines + rail pieces: 1× S70-WT with concrete & ballast print + 1× S70-PC)_ | [DMV-931](https://diocolle.tomytec.co.jp/product/detail.html?jan=4543736325451)◩ (1 set)<br>[DMV-932](https://diocolle.tomytec.co.jp/product/detail.html?jan=4543736330929)◩ (1 set)
 
 ---
 
