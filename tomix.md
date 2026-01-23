@@ -167,7 +167,7 @@ Multiple-track embankments can be created by combining single-track embankment w
 Code | Wood (EM)
 --- | ---
 C1641-5 | [91045](https://www.tomytec.co.jp/tomix/products/n/91045.html)◩ (6×) _‹normal or cant or approach›_<br>[91046](https://www.tomytec.co.jp/tomix/products/n/91046.html) (6×) _‹normal or cant or approach›_
-|
+||
 DC1641/1604-5 | [91045](https://www.tomytec.co.jp/tomix/products/n/91045.html)◩ + [91047](https://www.tomytec.co.jp/tomix/products/n/91047.html)◩ (6×) _‹normal or cant or approach›_<br>[91046](https://www.tomytec.co.jp/tomix/products/n/91046.html) + [91047](https://www.tomytec.co.jp/tomix/products/n/91047.html)◩ (6×) _‹normal or cant or approach›_
 
 ## Embankment ends and piers
