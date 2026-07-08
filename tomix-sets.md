@@ -222,6 +222,13 @@
 * 2× S140-PC
 * 5× S35 (crossing)
 
+## [91018](https://www.tomytec.co.jp/tomix/products/n/91018.html) Siding tracks
+* 4× S280-WP (one-sided)
+* 2× S280-PC
+* 2× S140-WP (one-sided)
+* 1× S70-PC
+* 3× S35-PC (crossing)
+
 ## [91036](https://www.tomytec.co.jp/tomix/products/n/91036.html) Engine ward (basic)
 * 2× S280-PC
 * 2× S175-PT
