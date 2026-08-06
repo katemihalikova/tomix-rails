@@ -152,7 +152,7 @@ PX280 || [3057](https://www.tomytec.co.jp/tomix/products/n/3057.html)◩ (4×) |
 
 ## Straight embankments
 
-Code | No rails (use WP) | Wood (EM)
+Code | No rails | Wood (EM)
 --- | --- | ---
 S140 | [3228](https://www.tomytec.co.jp/tomix/products/n/3228.html)◩ (4×)<br>[3229](https://www.tomytec.co.jp/tomix/products/n/3229.html) (2×) | [91045](https://www.tomytec.co.jp/tomix/products/n/91045.html)◩ (1×)
 S35 | [3232](https://www.tomytec.co.jp/tomix/products/n/3232.html)◩ (2×)
@@ -161,14 +161,21 @@ S2.5 | [3232](https://www.tomytec.co.jp/tomix/products/n/3232.html)◩ (1×)<br>
 
 [91047](https://www.tomytec.co.jp/tomix/products/n/91047.html)◩ contains pieces that can be used to create S145 embankment with Wood (EM) rails (S140 embankment and 2× S72.5 Wood rail not included).
 
-Multiple-track embankments can be created by combining single-track embankment with appropriate number of embankment piers. Embankments can be stacked, each level requires a base the size of one-more-track embankment, levels can be combined together. Embankment level 1 equals pier size P4, embankment level 2 equals pier size P10, number of levels is unlimited.
+Use WP or ⬙ tracks for straight embankments without rails.
+
+Multiple-track straight embankments can be created by combining single-track embankment with appropriate number of embankment piers. Straight embankments can be stacked, each level requires a base the size of one-more-track embankment, levels can be combined together, level 1 equals pier size P4, level 2 equals pier size P10, number of levels is unlimited.
 
 ## Curved embankments
-Code | Wood (EM)
---- | ---
-C1641-5 | [91045](https://www.tomytec.co.jp/tomix/products/n/91045.html)◩ (6×) _‹normal or cant or approach›_<br>[91046](https://www.tomytec.co.jp/tomix/products/n/91046.html) (6×) _‹normal or cant or approach›_
+Code | No rails (use WP or ⬙) | Wood (EM)
+--- | --- | ---
+C1641-5 || [91045](https://www.tomytec.co.jp/tomix/products/n/91045.html)◩ (6×) _‹normal or cant or approach›_<br>[91046](https://www.tomytec.co.jp/tomix/products/n/91046.html) (6×) _‹normal or cant or approach›_
 ||
-DC1641/1604-5 | [91045](https://www.tomytec.co.jp/tomix/products/n/91045.html)◩ + [91047](https://www.tomytec.co.jp/tomix/products/n/91047.html)◩ (6×) _‹normal or cant or approach›_<br>[91046](https://www.tomytec.co.jp/tomix/products/n/91046.html) + [91047](https://www.tomytec.co.jp/tomix/products/n/91047.html)◩ (6×) _‹normal or cant or approach›_
+DC1641/1604-5 || [91045](https://www.tomytec.co.jp/tomix/products/n/91045.html)◩ + [91047](https://www.tomytec.co.jp/tomix/products/n/91047.html)◩ (6×) _‹normal or cant or approach›_<br>[91046](https://www.tomytec.co.jp/tomix/products/n/91046.html) + [91047](https://www.tomytec.co.jp/tomix/products/n/91047.html)◩ (6×) _‹normal or cant or approach›_
+DC317/280-15 | [3233](https://www.tomytec.co.jp/tomix/products/n/3233.html) (6×)
+
+Use Wood, PC, WP, or ⬙ tracks for curved embankments without rails.
+
+Curved embankments can't be created in any configuration other than indicated. Curved embankments can't be stacked and equal pier size P4.
 
 ## Embankment ends and piers
 
